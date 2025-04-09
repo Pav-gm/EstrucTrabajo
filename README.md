@@ -284,11 +284,6 @@ Las tareas marcadas como "Urgente" se añaden automáticamente a la cola de tare
 
 El sistema incluye un modo de demostración que carga datos de ejemplo para mostrar las funcionalidades:
 
-- **Modo Consola:** Muestra estadísticas y ejemplos en la consola.
-  ```
-  python main.py --demo
-  ```
-
 - **Modo GUI:** Inicia la interfaz gráfica con datos precargados.
   ```
   python main.py --demo-gui
@@ -377,6 +372,3 @@ Proporciona datos de ejemplo para demostraciones:
 +-----------------+      +----------------+     +---------------+
 ```
 
----
-
-Esta documentación fue generada para el Sistema de Gestión de Tareas, una aplicación desarrollada como demostración de estructuras de datos en Python. 
