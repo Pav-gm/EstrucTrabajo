@@ -150,12 +150,6 @@ El programa ofrece varios modos de ejecución:
   ```
   Inicia la aplicación con una base de datos vacía.
 
-- **Modo demostración (consola):**
-  ```
-  python main.py --demo
-  ```
-  Carga datos de ejemplo y muestra estadísticas en la consola.
-
 - **Modo demostración (GUI):**
   ```
   python main.py --demo-gui
